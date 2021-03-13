@@ -1,0 +1,25 @@
+{
+    "name": "pxt-kitronik-move-motor",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "pxt-kitronik-move-motor": "github:KitronikLtd/pxt-kitronik-move-motor#v0.3.2",
+        "bitcommander": "github:4tronix/bitcommander#1.1.3",
+        "radio-broadcast": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
